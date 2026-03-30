@@ -14,6 +14,7 @@ public:
         button.setPosition({40, 40});
         button.setString("Click me");
         addComponent(button);
+
     }
 
     void registerEvents() override
