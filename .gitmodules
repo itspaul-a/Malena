@@ -1,0 +1,3 @@
+[submodule "Malena"]
+	path = external/Malena
+	url = https://github.com/daversmith/Malena
