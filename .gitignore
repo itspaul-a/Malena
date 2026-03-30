@@ -7,6 +7,8 @@
 *.o
 *.obj
 
+build/
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -39,3 +41,5 @@
 
 # debug information files
 *.dwo
+
+
